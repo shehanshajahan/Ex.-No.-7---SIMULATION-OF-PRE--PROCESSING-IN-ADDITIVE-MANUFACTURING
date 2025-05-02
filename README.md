@@ -1,4 +1,6 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### Name: Shehan Shajahan
+### Register Number: 212223240154
 ### DATE: 02/05/2025
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
@@ -45,10 +47,6 @@
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/c55a0dd7-6268-4fb0-b2ed-3d280422b234)
-
-
-### Name: Shehan Shajahan
-### Register Number: 212223240154
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
